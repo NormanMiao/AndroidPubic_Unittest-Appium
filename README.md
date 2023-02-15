@@ -24,4 +24,3 @@
 被测apk:wetestdemo.apk
 
 自动化框架：appium
-
